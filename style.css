@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+html {
+    background-color: #808080;
+    text-align: center;
+}
+
+#studId {
+    margin-top: 50px;
+
+}
+
+.input {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 20px;
+}
+
+#entry {
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    background-color: #f0f0f0d3;
+    color: #000000;
+    margin-top: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 75%;
+    margin: 50px auto;
+    background-color: #d3d3d3;
+}
+
+table, th, td {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+th {
+    font-size: 20px;
+    font-weight: 700;
+    color: #000000;
+}
+
+td {
+    font-size: 15px;
+    font-weight: 300;
+    color: #000000;
+
+}
